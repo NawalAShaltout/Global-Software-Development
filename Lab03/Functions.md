@@ -8,20 +8,26 @@
 5. [Create index JS File]
 6. [Run Your index.js]
 
+---
 ### 1️⃣ 🗂️ Create a New Node.js Project
   - First, make sure you have Node.js installed. Then, create a new project directory and navigate into it.
 
 ---
+
 ### 2️⃣ 📦 Initialize the Project
  - Initialize a new Index.js project with **npm**:
 
          npm init -y
    
 - This will create a **package.json** file in your project directory.
+- ![packagejson](https://github.com/user-attachments/assets/beba48bb-972d-441d-a8f5-7ee15b1bdb87)
 
 ---
+
 ### 3️⃣ ✏️ Create a JavaScript File
   - Create a new JavaScript file named as **Functions.js**
+
+---
 
 ### 4️⃣ 📝 Write Functions in the Functions.js
       
@@ -41,6 +47,7 @@
     module.exports = { add, subtract };
 
 ---
+
 ### 5️⃣ 🖥️ Create Another JS File (index.js) to Use the Functions
 
   - Open index.js and import the functions from functions.js, then use them:
